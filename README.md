@@ -30,7 +30,7 @@ Make a POST request to gain Authorization code by passing a Basic Authentication
 **RESPONSE** _OK_
 ```
 {
-  Authorization Code : *Authorization_code*
+  Authorization Code : *Authorization_code*   
 }
 ```
 ### Step 3
