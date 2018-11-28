@@ -95,7 +95,7 @@ __Authorization__     Bearer _access_token_
 
 # Author
 
-* John Aubyn Initial Work [Developer](https://aubynj.github.io/)
+* John Aubyn Initial Work [Developer](https://aubynj.github.io/)    
 
 # License
 This work is licensed by [Swedish Ason Group AB](https://www.dangstons.se/)
