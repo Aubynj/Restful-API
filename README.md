@@ -1,4 +1,4 @@
-# Restful-API
+# Restful-API with Flask Framework
 ### What is a RESTful API?
 
 One of the most popular types of API is REST or, as they’re sometimes known, RESTful APIs. REST or RESTful APIs were designed to take advantage of existing protocols. While REST - or Representational State Transfer - can be used over nearly any protocol, when used for web APIs it typically takes advantage of HTTP. This means that developers have no need to install additional software or libraries when creating a REST API.
